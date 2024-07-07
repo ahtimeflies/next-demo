@@ -1,3 +1,4 @@
+'use client'
 import { Enum } from '@/utils'
 
 export default function Home() {

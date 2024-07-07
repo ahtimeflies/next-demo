@@ -1,3 +1,4 @@
+'use client'
 import { test2 } from '@/utils'
 
 export default function Home() {
